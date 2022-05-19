@@ -1,4 +1,4 @@
-### Full Stack Developer(Ruby on Rails/React)
+### Full Stack Developer
 
 Silicon Valley Full stack developer with rich experience in software development      
 
